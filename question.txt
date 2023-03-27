@@ -1,0 +1,4 @@
+1. số lượng pizza bán được theo tháng và năm và quarter
+2. số tiền bán được
+3. Các loại pizza bán được trong tháng đó và năm đó
+4. Số tiền bán từng loại pizza và số lượng bán
